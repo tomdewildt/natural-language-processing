@@ -1,7 +1,7 @@
 FuzzyTM==1.0.0
 gensim==4.2.0
 jupyterlab==3.4.8
-matplotlib==3.6.0
+matplotlib==3.6.1
 nltk==3.7
 pandas==1.5.0
 scikit-learn==1.1.2
