@@ -1,4 +1,4 @@
-FuzzyTM==2.0.2
+FuzzyTM==2.0.3
 gensim==4.2.0
 jupyterlab==3.5.0
 matplotlib==3.6.1
