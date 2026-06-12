@@ -1,9 +1,9 @@
 FuzzyTM==2.0.5
 gensim==4.3.0
-jupyterlab==3.5.2
+jupyterlab==4.5.7
 matplotlib==3.6.2
-nltk==3.8
+nltk==3.9.4
 pandas==1.5.2
 # pyldavis==3.3.1
-scikit-learn==1.2.0
+scikit-learn==1.5.0
 wordcloud==1.8.2.2
